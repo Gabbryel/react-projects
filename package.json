@@ -1,0 +1,10 @@
+{
+  "name": "webpack-react-101",
+  "version": "1.0.0",
+  "description": "learning React",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
+}
